@@ -4,7 +4,9 @@ Weekly revenue and profit forecasting using SARIMA, Prophet, XGBoost and LSTM on
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://amazon-revenue-forecasting.streamlit.app)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/kaanaltay1/amazon-revenue-forecasting)
+
+👉 **[Click here to open the app](https://huggingface.co/spaces/kaanaltay1/amazon-revenue-forecasting)**
 
 ## 📌 Project Overview
 
@@ -50,14 +52,9 @@ streamlit run app.py
 ## 📦 Requirements
 
 - Python 3.11
-- streamlit
-- pandas, numpy
-- plotly
-- scikit-learn
-- statsmodels
-- prophet
-- xgboost
-- tensorflow
+- streamlit, pandas, numpy, plotly
+- scikit-learn, statsmodels
+- prophet, xgboost, tensorflow
 
 ## 📁 Data Format
 
@@ -71,4 +68,4 @@ Or use the built-in **Demo Data** option from the sidebar.
 
 **Kaan Altay**  
 Data Scientist  
-[GitHub](https://github.com/kaanaltay-hub)
+[GitHub](https://github.com/kaanaltay-hub) · [Live Demo](https://huggingface.co/spaces/kaanaltay1/amazon-revenue-forecasting)
